@@ -281,13 +281,13 @@
             width: 700px;
             height: 400px;
             border-radius: 10px;
-            background-image: url(project-1-vid.png);
+            background-image: url(assets/project-1-vid.png);
             background-size: cover;
             cursor: pointer;
         }
         
         .video:hover {
-            background-image: url(portfolio-1.gif);
+            background-image: url(assets/portfolio-1.gif);
             background-size: 700px 400px;
         }
         
@@ -385,13 +385,13 @@
             width: 700px;
             height: 400px;
             border-radius: 10px;
-            background-image: url(project-2-pic.png);
+            background-image: url(assets/project-2-pic.png);
             background-size: cover;
             cursor: pointer;
         }
         
         .video-1:hover {
-            background-image: url(project-2.gif);
+            background-image: url(assets/project-2.gif);
             background-size: 700px 400px;
         }
         
@@ -407,13 +407,13 @@
             width: 700px;
             height: 400px;
             border-radius: 10px;
-            background-image: url(osw-website.png);
+            background-image: url(assets/osw-website.png);
             background-size: cover;
             cursor: pointer;
         }
         
         .video-2:hover {
-            background-image: url(project-3.gif);
+            background-image: url(assets/project-3.gif);
             background-size: 700px 400px;
         }
         
